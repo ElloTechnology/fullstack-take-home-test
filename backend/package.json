@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "ts-node src/app.ts",
     "start:dev": "nodemon --watch src --exec ts-node src/app.ts",
