@@ -72,7 +72,7 @@ You can use this query to get the list of books to display in your frontend. You
 - Use the "Mulish" Google font
 - You can use the following colors (You don't have to use all but you can pick and choose from here)
   - Primary - Use this pallet for major elements 
-    - Turquoise <span style="display: inline-block; width: 20px; height: 20px; background-color: #5ACCCC;"></span> #5ACCCC
+    - Turquoise ![color swatch](data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='20' height='20'><rect width='20' height='20' fill='%235ACCCC'/></svg>) #5ACCCC
     - Steel Blue <span style="display: inline-block; width: 20px; height: 20px; background-color: #335C6E;"></span> #335C6E
     - Yellow <span style="display: inline-block; width: 20px; height: 20px; background-color: #FABD33;"></span> #FABD33
     - White <span style="display: inline-block; width: 20px; height: 20px; background-color: #FFFFFF;"></span> #FFFFFF
