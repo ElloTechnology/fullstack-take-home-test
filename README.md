@@ -71,7 +71,7 @@ You can use this query to get the list of books to display in your frontend. You
 ### Styling Guidelines
 - Use the "Mulish" Google font
 - You can use the following colors (You don't have to use all but you can pick and choose from here)
-<img width="1251" alt="Screenshot 2024-05-14 at 16 59 28" src="https://github.com/ElloTechnology/fullstack-take-home-test/assets/3518127/032037ed-4e16-4467-b7b5-bcfe1adfbd0a">
+<img width="1243" alt="Screenshot 2024-05-14 at 17 32 01" src="https://github.com/ElloTechnology/fullstack-take-home-test/assets/3518127/ae726f6e-bfc0-432a-b9d1-b06d1f6f6ead">
 
 <img width="1247" alt="Screenshot 2024-05-14 at 17 05 32" src="https://github.com/ElloTechnology/fullstack-take-home-test/assets/3518127/a8038609-9cca-405e-9a90-923197049597">
 
