@@ -37,8 +37,13 @@ You can build this view without the concept of a "student" and just have a singl
 
 ### Requirements
 - Use React as the frontend framework.
+- Demonstrate use of React hooks
+- Demonstrate knowledge of component modularization
 - Use [material-ui](https://mui.com/material-ui/) as the component library.
 - Write your code in the `src/frontend` directory.
+- Create components as you feel is best suited for your solution
+<img width="1013" alt="Screenshot 2024-05-15 at 19 10 51" src="https://github.com/ElloTechnology/fullstack-take-home-test/assets/3518127/bc3eb7f7-489f-4304-93f4-032bbbd38c58">
+
 
 ### Data
 To get access to data that you will use for this challenge you can switch into the `src/backend` folder and run
