@@ -37,8 +37,7 @@ You can build this view without the concept of a "student" and just have a singl
 
 ### Requirements
 - Use React as the frontend framework.
-- Demonstrate use of React hooks
-- Demonstrate knowledge of component modularization
+- Showcase the use of React hooks.
 - Use [material-ui](https://mui.com/material-ui/) as the component library.
 - Write your code in the `src/frontend` directory.
 - Create components as you feel is best suited for your solution
