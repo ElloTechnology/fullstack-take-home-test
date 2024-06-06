@@ -12,7 +12,8 @@ Thanks for taking the time, and we hope to talk with you soon!
 
 Ello is a forward-thinking educational technology company dedicated to revolutionizing the way children learn to read. Our mission is to empower young readers with the tools they need to become proficient and passionate readers. We believe that fostering a love for reading is essential for a child's academic and personal growth.
 
-**Note:** Please don't fork this repository or create a pull request against it. Other applicants may take inspiration from it. You should create another repository for the challenge. Once the coding challenge is completed, email your solution to [enter email here].
+**Note:** Please don't fork this repository or create a pull request against it. Other applicants may take inspiration from it. You should create another repository for the challenge. Once the coding challenge is completed, email your solution back to Jackie [jackie@ello.com(mailto:email jackie@ello.com)
+.
 
 
 ## Challenge
