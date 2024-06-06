@@ -18,8 +18,7 @@ Ello is a forward-thinking educational technology company dedicated to revolutio
 
 
 ## Challenge
-As part of our goal to have Ello impact as many children as we can, we offer an Ello web viewer product.
-![Untitled (2)](https://github.com/ElloTechnology/fullstack-take-home-test/assets/3518127/bafd1004-4923-421f-a31f-87d15d788aa8)
+As part of our goal to have Ello impact as many children as we can, we offer an Ello web viewer product. [https://books.ello.com](https://books.ello.com/)
 
 
 We give this to certain schools for free to allow teachers to share our books with children. 
